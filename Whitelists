@@ -1,0 +1,4 @@
+local astros = {
+115151204, --My main
+}
+return astros
